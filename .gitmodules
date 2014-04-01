@@ -1,0 +1,3 @@
+[submodule "veris"]
+	path = veris
+	url = git@github.com:vz-risk/veris.git
