@@ -34,3 +34,6 @@ pip-log.txt
 
 # virtualenv
 venv
+
+# checkpoints
+.ipynb_checkpoints
